@@ -8,7 +8,7 @@ Builder at the intersection of markets and software. I design systems that enfor
 
 A production-grade personal intelligence system I designed and directed, built with Claude (Anthropic's AI coding agent) as my implementation partner. It runs live every weeknight.
 
-**[Live dashboard](https://roeeinvest18-tech.github.io/morning-scout-dashboard/)** · **Source code available on request**
+**[Live dashboard](https://roeeinvest18-tech.github.io/jarvis-dashboard/)** · **Source code available on request**
 
 [![Tests](https://github.com/roeeinvest18-tech/jarvis/actions/workflows/tests.yml/badge.svg)](https://github.com/roeeinvest18-tech/jarvis/actions/workflows/tests.yml)
 
